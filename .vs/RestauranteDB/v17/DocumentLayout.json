@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VISUALCODE\\RestauranteDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{025FB1B7-793C-4A2B-B257-A72C1663159D}|RestauranteDB.csproj|e:\\visualcode\\restaurantedb\\models\\turno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025FB1B7-793C-4A2B-B257-A72C1663159D}|RestauranteDB.csproj|solutionrelative:models\\turno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025FB1B7-793C-4A2B-B257-A72C1663159D}|RestauranteDB.csproj|e:\\visualcode\\restaurantedb\\models\\restaurantedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025FB1B7-793C-4A2B-B257-A72C1663159D}|RestauranteDB.csproj|solutionrelative:models\\restaurantedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025FB1B7-793C-4A2B-B257-A72C1663159D}|RestauranteDB.csproj|e:\\visualcode\\restaurantedb\\models\\reservacione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025FB1B7-793C-4A2B-B257-A72C1663159D}|RestauranteDB.csproj|solutionrelative:models\\reservacione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025FB1B7-793C-4A2B-B257-A72C1663159D}|RestauranteDB.csproj|e:\\visualcode\\restaurantedb\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025FB1B7-793C-4A2B-B257-A72C1663159D}|RestauranteDB.csproj|solutionrelative:models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025FB1B7-793C-4A2B-B257-A72C1663159D}|RestauranteDB.csproj|e:\\visualcode\\restaurantedb\\models\\mesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025FB1B7-793C-4A2B-B257-A72C1663159D}|RestauranteDB.csproj|solutionrelative:models\\mesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025FB1B7-793C-4A2B-B257-A72C1663159D}|RestauranteDB.csproj|e:\\visualcode\\restaurantedb\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025FB1B7-793C-4A2B-B257-A72C1663159D}|RestauranteDB.csproj|solutionrelative:models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025FB1B7-793C-4A2B-B257-A72C1663159D}|RestauranteDB.csproj|e:\\visualcode\\restaurantedb\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025FB1B7-793C-4A2B-B257-A72C1663159D}|RestauranteDB.csproj|solutionrelative:models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025FB1B7-793C-4A2B-B257-A72C1663159D}|RestauranteDB.csproj|e:\\visualcode\\restaurantedb\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025FB1B7-793C-4A2B-B257-A72C1663159D}|RestauranteDB.csproj|solutionrelative:models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025FB1B7-793C-4A2B-B257-A72C1663159D}|RestauranteDB.csproj|e:\\visualcode\\restaurantedb\\controllers\\turnoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025FB1B7-793C-4A2B-B257-A72C1663159D}|RestauranteDB.csproj|solutionrelative:controllers\\turnoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025FB1B7-793C-4A2B-B257-A72C1663159D}|RestauranteDB.csproj|e:\\visualcode\\restaurantedb\\controllers\\reservacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025FB1B7-793C-4A2B-B257-A72C1663159D}|RestauranteDB.csproj|solutionrelative:controllers\\reservacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025FB1B7-793C-4A2B-B257-A72C1663159D}|RestauranteDB.csproj|e:\\visualcode\\restaurantedb\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025FB1B7-793C-4A2B-B257-A72C1663159D}|RestauranteDB.csproj|solutionrelative:controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025FB1B7-793C-4A2B-B257-A72C1663159D}|RestauranteDB.csproj|e:\\visualcode\\restaurantedb\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025FB1B7-793C-4A2B-B257-A72C1663159D}|RestauranteDB.csproj|solutionrelative:controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025FB1B7-793C-4A2B-B257-A72C1663159D}|RestauranteDB.csproj|e:\\visualcode\\restaurantedb\\controllers\\empleadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025FB1B7-793C-4A2B-B257-A72C1663159D}|RestauranteDB.csproj|solutionrelative:controllers\\empleadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025FB1B7-793C-4A2B-B257-A72C1663159D}|RestauranteDB.csproj|e:\\visualcode\\restaurantedb\\controllers\\mesascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025FB1B7-793C-4A2B-B257-A72C1663159D}|RestauranteDB.csproj|solutionrelative:controllers\\mesascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025FB1B7-793C-4A2B-B257-A72C1663159D}|RestauranteDB.csproj|e:\\visualcode\\restaurantedb\\controllers\\menuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025FB1B7-793C-4A2B-B257-A72C1663159D}|RestauranteDB.csproj|solutionrelative:controllers\\menuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025FB1B7-793C-4A2B-B257-A72C1663159D}|RestauranteDB.csproj|e:\\visualcode\\restaurantedb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025FB1B7-793C-4A2B-B257-A72C1663159D}|RestauranteDB.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025FB1B7-793C-4A2B-B257-A72C1663159D}|RestauranteDB.csproj|e:\\visualcode\\restaurantedb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{025FB1B7-793C-4A2B-B257-A72C1663159D}|RestauranteDB.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Turno.cs",
+              "DocumentMoniker": "E:\\VISUALCODE\\RestauranteDB\\Models\\Turno.cs",
+              "RelativeDocumentMoniker": "Models\\Turno.cs",
+              "ToolTip": "E:\\VISUALCODE\\RestauranteDB\\Models\\Turno.cs",
+              "RelativeToolTip": "Models\\Turno.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T22:28:12.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Reservacione.cs",
+              "DocumentMoniker": "E:\\VISUALCODE\\RestauranteDB\\Models\\Reservacione.cs",
+              "RelativeDocumentMoniker": "Models\\Reservacione.cs",
+              "ToolTip": "E:\\VISUALCODE\\RestauranteDB\\Models\\Reservacione.cs",
+              "RelativeToolTip": "Models\\Reservacione.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T22:26:19.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "E:\\VISUALCODE\\RestauranteDB\\Models\\Pedido.cs",
+              "RelativeDocumentMoniker": "Models\\Pedido.cs",
+              "ToolTip": "E:\\VISUALCODE\\RestauranteDB\\Models\\Pedido.cs",
+              "RelativeToolTip": "Models\\Pedido.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T22:26:01.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mesa.cs",
+              "DocumentMoniker": "E:\\VISUALCODE\\RestauranteDB\\Models\\Mesa.cs",
+              "RelativeDocumentMoniker": "Models\\Mesa.cs",
+              "ToolTip": "E:\\VISUALCODE\\RestauranteDB\\Models\\Mesa.cs",
+              "RelativeToolTip": "Models\\Mesa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T22:25:52.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "E:\\VISUALCODE\\RestauranteDB\\Models\\Menu.cs",
+              "RelativeDocumentMoniker": "Models\\Menu.cs",
+              "ToolTip": "E:\\VISUALCODE\\RestauranteDB\\Models\\Menu.cs",
+              "RelativeToolTip": "Models\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T22:25:45.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReservacionesController.cs",
+              "DocumentMoniker": "E:\\VISUALCODE\\RestauranteDB\\Controllers\\ReservacionesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReservacionesController.cs",
+              "ToolTip": "E:\\VISUALCODE\\RestauranteDB\\Controllers\\ReservacionesController.cs",
+              "RelativeToolTip": "Controllers\\ReservacionesController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCwAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T21:50:51.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TurnosController.cs",
+              "DocumentMoniker": "E:\\VISUALCODE\\RestauranteDB\\Controllers\\TurnosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TurnosController.cs",
+              "ToolTip": "E:\\VISUALCODE\\RestauranteDB\\Controllers\\TurnosController.cs",
+              "RelativeToolTip": "Controllers\\TurnosController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T21:51:12.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RestauranteDbContext.cs",
+              "DocumentMoniker": "E:\\VISUALCODE\\RestauranteDB\\Models\\RestauranteDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\RestauranteDbContext.cs",
+              "ToolTip": "E:\\VISUALCODE\\RestauranteDB\\Models\\RestauranteDbContext.cs",
+              "RelativeToolTip": "Models\\RestauranteDbContext.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAUwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T21:21:34.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "E:\\VISUALCODE\\RestauranteDB\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientesController.cs",
+              "ToolTip": "E:\\VISUALCODE\\RestauranteDB\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAzwAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T21:26:32.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PedidosController.cs",
+              "DocumentMoniker": "E:\\VISUALCODE\\RestauranteDB\\Controllers\\PedidosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PedidosController.cs",
+              "ToolTip": "E:\\VISUALCODE\\RestauranteDB\\Controllers\\PedidosController.cs",
+              "RelativeToolTip": "Controllers\\PedidosController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T21:50:32.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "E:\\VISUALCODE\\RestauranteDB\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Models\\Cliente.cs",
+              "ToolTip": "E:\\VISUALCODE\\RestauranteDB\\Models\\Cliente.cs",
+              "RelativeToolTip": "Models\\Cliente.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAxwBIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T21:33:43.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "E:\\VISUALCODE\\RestauranteDB\\Models\\Empleado.cs",
+              "RelativeDocumentMoniker": "Models\\Empleado.cs",
+              "ToolTip": "E:\\VISUALCODE\\RestauranteDB\\Models\\Empleado.cs",
+              "RelativeToolTip": "Models\\Empleado.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T22:01:39.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmpleadosController.cs",
+              "DocumentMoniker": "E:\\VISUALCODE\\RestauranteDB\\Controllers\\EmpleadosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmpleadosController.cs",
+              "ToolTip": "E:\\VISUALCODE\\RestauranteDB\\Controllers\\EmpleadosController.cs",
+              "RelativeToolTip": "Controllers\\EmpleadosController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowBYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T21:49:56.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MesasController.cs",
+              "DocumentMoniker": "E:\\VISUALCODE\\RestauranteDB\\Controllers\\MesasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MesasController.cs",
+              "ToolTip": "E:\\VISUALCODE\\RestauranteDB\\Controllers\\MesasController.cs",
+              "RelativeToolTip": "Controllers\\MesasController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T21:49:33.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MenusController.cs",
+              "DocumentMoniker": "E:\\VISUALCODE\\RestauranteDB\\Controllers\\MenusController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MenusController.cs",
+              "ToolTip": "E:\\VISUALCODE\\RestauranteDB\\Controllers\\MenusController.cs",
+              "RelativeToolTip": "Controllers\\MenusController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T21:50:13.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\VISUALCODE\\RestauranteDB\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\VISUALCODE\\RestauranteDB\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-19T21:22:07.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\VISUALCODE\\RestauranteDB\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\VISUALCODE\\RestauranteDB\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T21:20:21.3Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
