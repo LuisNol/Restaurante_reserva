@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Text.Json.Serialization;
 
 namespace RestauranteDB.Models;
 
@@ -15,7 +16,9 @@ public partial class Turno
 
     public string HoraTurno { get; set; } = null!;
 
-    public virtual Empleado Empleado { get; set; } = null!;
+    [JsonIgnore]
+    public virtual Empleado? Empleado { get; set; }
 
-    public virtual Mesa Mesa { get; set; } = null!;
+    [JsonIgnore]
+    public virtual Mesa? Mesa { get; set; }
 }

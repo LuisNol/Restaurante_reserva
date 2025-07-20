@@ -455,7 +455,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "RestauranteDB.Controllers.ReservacionesController",
+    "ContainingType": "ReservacionesController",
     "Method": "GetReservaciones",
     "RelativePath": "api/Reservaciones",
     "HttpMethod": "GET",
@@ -465,7 +465,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "RestauranteDB.Controllers.ReservacionesController",
+    "ContainingType": "ReservacionesController",
     "Method": "CrearReservacion",
     "RelativePath": "api/Reservaciones",
     "HttpMethod": "POST",
@@ -481,7 +481,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "RestauranteDB.Controllers.ReservacionesController",
+    "ContainingType": "ReservacionesController",
     "Method": "GetReservacion",
     "RelativePath": "api/Reservaciones/{id}",
     "HttpMethod": "GET",
@@ -497,7 +497,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "RestauranteDB.Controllers.ReservacionesController",
+    "ContainingType": "ReservacionesController",
     "Method": "ActualizarReservacion",
     "RelativePath": "api/Reservaciones/{id}",
     "HttpMethod": "PUT",
@@ -518,7 +518,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "RestauranteDB.Controllers.ReservacionesController",
+    "ContainingType": "ReservacionesController",
     "Method": "EliminarReservacion",
     "RelativePath": "api/Reservaciones/{id}",
     "HttpMethod": "DELETE",

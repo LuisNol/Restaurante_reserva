@@ -162,3 +162,6 @@ E:\VISUALCODE\RestauranteDB\obj\Debug\net9.0\refint\RestauranteDB.dll
 E:\VISUALCODE\RestauranteDB\obj\Debug\net9.0\RestauranteDB.pdb
 E:\VISUALCODE\RestauranteDB\obj\Debug\net9.0\RestauranteDB.genruntimeconfig.cache
 E:\VISUALCODE\RestauranteDB\obj\Debug\net9.0\ref\RestauranteDB.dll
+E:\VISUALCODE\RestauranteDB\obj\Debug\net9.0\RestauranteDB.sourcelink.json
+E:\VISUALCODE\RestauranteDB\bin\Debug\net9.0\frontend\package-lock.json
+E:\VISUALCODE\RestauranteDB\bin\Debug\net9.0\frontend\package.json

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Text.Json.Serialization;
 
 namespace RestauranteDB.Models;
 
@@ -15,7 +16,9 @@ public partial class Pedido
 
     public DateTimeOffset? HoraPedido { get; set; }
 
-    public virtual Menu Menu { get; set; } = null!;
+    [JsonIgnore]
+    public virtual Menu? Menu { get; set; }
 
-    public virtual Reservacione Reservacion { get; set; } = null!;
+    [JsonIgnore]
+    public virtual Reservacione? Reservacion { get; set; }
 }
