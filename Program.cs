@@ -17,7 +17,7 @@ builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowSpecificOrigin",
         builder => builder
-            .WithOrigins("http://localhost:5173", "http://localhost:5500")
+            .WithOrigins("http://localhost:5173", "https://restaurante.avisonline.store/")
             .AllowAnyMethod()
             .AllowAnyHeader());
 });
